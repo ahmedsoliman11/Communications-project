@@ -14,7 +14,7 @@ These instructions for all the modulation schemes
 Note: Scatter plots are produced at a noise level of 10 dB.
 ## **Binary Phase-Shift Keying Modulation (BPSK)**
 ### - Definition 
-BPSK is modulation scheme makes the phase of the output signal gets shifted depending upon the input. It works on binary inputs, thus the output phase different is 180 degree.
+BPSK is a two phase modulation scheme, where the 0’s and 1’s in a binary message are represented by two different phase states in the carrier signal: θ=0∘ for binary 1 and θ=180∘ for binary 0.
 
 ### - Schema
 ![BPSK schema](BPSK.PNG)
@@ -28,7 +28,7 @@ BPSK is modulation scheme makes the phase of the output signal gets shifted depe
 
 ## **Quadrature Phase-Shift Keying Modulation (QPSK)**
 ### - Definition 
-QPSK is modulation scheme makes the phase of the output signal gets shifted depending upon the input. Exactly like BPSK but the input is 2-bits (4 values), thus the output phase will be shifted (0, 90, 180, or 270) degree.
+QPSK is type of  phase shift keying. Unlike BPSK which is a DSBCS modulation scheme with digital information for the message, QPSK is also a DSBCS modulation scheme but it sends two bits of digital information a time (without the use of another carrier frequency).
 
 ### - Schema
 ![QPSK schema](QPSK.PNG)
@@ -42,7 +42,7 @@ QPSK is modulation scheme makes the phase of the output signal gets shifted depe
 
 ## **Frequency Shift Keying (FSK)**
 ### - Definition 
-FSK is modulation scheme makes the frequency of the output signal will be either high or low, depending upon the input data applied. The simplest FSK is binary FSK which I used here.
+FSK is the digital modulation technique in which the frequency of the carrier signal varies according to the digital signal changes. FSK is a scheme of frequency modulation. The output of a FSK modulated wave is high in frequency for a binary High input and is low in frequency for a binary Low input. The binary 1s and 0s are called Mark and Space frequencies.
 
 ### - Schema
 ![FSK schema](FSK.PNG)
@@ -56,7 +56,7 @@ FSK is modulation scheme makes the frequency of the output signal will be either
 
 ## **Quadrature Amplitude Modulation (QAM)**
 ### - Definition
-QAM is modulation scheme makes the output signal get both ampltiude and phase shifting into a single channel, thereby it uses the bandwidth efficiently. It especially in wireless applications. Depending on number of symbols, another phases and amplitudes appear/disappear. 
+QAM is a modulation scheme that moderates two sinusoidal carriers 90 ° out-of-phase with each other. The components of each carrier are called inphase and quadrature. Both modulated carriers are summed to result in a signal with amplitude and phase modulation. 
 
 ### - Schema
 * **QAM_16**
