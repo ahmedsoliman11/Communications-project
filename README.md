@@ -19,11 +19,11 @@ BPSK is modulation scheme makes the phase of the output signal gets shifted depe
 ### - Schema
 ![BPSK schema](BPSK.PNG)
 ### - Scatter Plot (Before Noise)
-![BPSK Before Noise](BPSK before.jpg)
+![BPSK Before Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/BPSK%20before.jpg)
 ### - Scatter Plot (After Noise)
-![BPSK After Noise](BPSK after.jpg)
+![BPSK After Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/BPSK%20after.jpg)
 ### - BER Plot
-![BPSK BER Diagram](BER BPSK.jpg)
+![BPSK BER Diagram](https://github.com/ahmedsoliman11/Communications-project/blob/master/BER%20BPSK.jpg)
 
 
 ## **Quadrature Phase-Shift Keying Modulation (QPSK)**
@@ -33,11 +33,11 @@ QPSK is modulation scheme makes the phase of the output signal gets shifted depe
 ### - Schema
 ![QPSK schema](QPSK.PNG)
 ### - Scatter Plot (Before Noise)
-![QPSK Before Noise](QPSK before.jpg)
+![QPSK Before Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/QPSK%20before.jpg)
 ### - Scatter Plot (After Noise)
-![QPSK After Noise](QPSK after.jpg)
+![QPSK After Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/QPSK%20after.jpg)
 ### - BER Plot
-![QPSK BER Diagram](BER QPSK.jpg)
+![QPSK BER Diagram](https://github.com/ahmedsoliman11/Communications-project/blob/master/BER%20QPSK.jpg)
 
 
 ## **Frequency Shift Keying (FSK)**
@@ -47,11 +47,11 @@ FSK is modulation scheme makes the frequency of the output signal will be either
 ### - Schema
 ![FSK schema](FSK.PNG)
 ### - Scatter Plot (Before Noise)
-![FSK Before Noise](FSK before.jpg)
+![FSK Before Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/FSK%20before.jpg)
 ### - Scatter Plot (After Noise)
-![FSK After Noise](FSK after.jpg)
+![FSK After Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/FSK%20after.jpg)
 ### - BER Plot
-![FSK BER Diagram](BER FSK.jpg)
+![FSK BER Diagram](https://github.com/ahmedsoliman11/Communications-project/blob/master/BER%20FSK.jpg)
 
 
 ## **Quadrature Amplitude Modulation (QAM)**
@@ -62,18 +62,18 @@ QAM is modulation scheme makes the output signal get both ampltiude and phase sh
 * **QAM_16**
 ![QAM_16 schema](QAM_16.PNG)
 ### - Scatter Plot (Before Noise)
-![QAM_16 Before Noise](QAM_16 before.jpg)
+![QAM_16 Before Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/QAM_16%20before.jpg)
 ### - Scatter Plot (After Noise)
-![QAM_16 After Noise](QAM_16 after.jpg)
+![QAM_16 After Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/QAM_16%20after.jpg)
 ### - BER Plot
-![QAM_16 BER Diagram](BER QAM_16.jpg)
+![QAM_16 BER Diagram](https://github.com/ahmedsoliman11/Communications-project/blob/master/BER%20QAM_16.jpg)
 
 * **QAM_64**
 ![QAM_64 schema](QAM_64.PNG)
 ### - Transmitter Scatter Plots (Before Noise)
-![QAM_64 Before Noise](QAM_64 before.jpg)
+![QAM_64 Before Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/QAM_64%20before.jpg)
 ### - Receiver Scatter Plots (After Noise)
-![QAM_64 After Noise](QAM_64 after.jpg)
+![QAM_64 After Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/QAM_64%20after.jpg)
 ### - BER Plot
-![QAM_64 BER Diagram](BER QAM_64.jpg)
+![QAM_64 BER Diagram](https://github.com/ahmedsoliman11/Communications-project/blob/master/BER%20QAM_64.jpg)
 
