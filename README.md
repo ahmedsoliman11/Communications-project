@@ -70,9 +70,9 @@ QAM is modulation scheme makes the output signal get both ampltiude and phase sh
 
 * **QAM_64**
 ![QAM_64 schema](QAM_64.PNG)
-### - Transmitter Scatter Plots (Before Noise)
+### - Scatter Plot (Before Noise)
 ![QAM_64 Before Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/QAM_64%20before.jpg)
-### - Receiver Scatter Plots (After Noise)
+### - Scatter Plot (After Noise)
 ![QAM_64 After Noise](https://github.com/ahmedsoliman11/Communications-project/blob/master/QAM_64%20after.jpg)
 ### - BER Plot
 ![QAM_64 BER Diagram](https://github.com/ahmedsoliman11/Communications-project/blob/master/BER%20QAM_64.jpg)
